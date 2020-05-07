@@ -1,4 +1,4 @@
-# InstaClient
+# RedditClient
 
 * Enter an hashtag and get the latest posts
 * Enter a username and get the latest posts
