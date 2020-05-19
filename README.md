@@ -1,7 +1,7 @@
 # RedditClient
 
 
-* Get the latest post from any given subbreddit
+* Get the latest post from any given subbreddit at that day
 * and top 3 coments
 
 
